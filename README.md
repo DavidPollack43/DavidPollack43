@@ -36,10 +36,20 @@
    <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
    <img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/>
    <img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"/>
+   
+<div style="text-align: center;">
+    <h2>About Me</h2>
+    <p>I'm currently working on full-stack applications, brushing up on Python, and exploring different languages! 🔎 </p>
+    <p>I love to swim both recreationally and competitively 🏊‍♂️</p>
+    <p>🏃‍♂️Getting into running and attempting to play basketball (need tips badly on both of these) ⛹️‍♂️ </p>
+    <p>I like to play games, especially the Elder Scrolls Series 🐉</p>
+    <p>Ask me about the NBA, I know an embarrassing amount (Check out my project Tip-Off Teams for insight into the starting lineups this season!) 🏀</p>
+    <p>Let me know any food recommendations in the Bay Area! 🍴</p>
+</div>
+
 </div> 
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="500"/>
 </div>
-
 
 
 
