@@ -43,7 +43,7 @@
     <p>I love to swim both recreationally and competitively 🏊‍♂️</p>
     <p>🏃‍♂️Getting into running and attempting to play basketball (need tips badly on both of these) ⛹️‍♂️ </p>
     <p>I like to play games, especially the Elder Scrolls Series 🐉</p>
-    <p>Ask me about the NBA, I know an embarrassing amount (Check out my project Tip-Off Teams for insight into the starting lineups this season!) 🏀</p>
+    <p>Ask me about the NBA, I know an embarrassing amount (Check out my project <a href="https://github.com/DavidPollack43/Tip-Off-Teams">Tip-Off Teams</a> for insight into the starting lineups this season!) 🏀</p>
     <p>Let me know any food recommendations in the Bay Area! 🍴</p>
 </div>
 
