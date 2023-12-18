@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100">
    <h1>Hello there! 👋</h1>
 <h2>Introduction</h2>
-  <p>Hello! I am David Pollack and I am a full-stack software engineer who graduated with a CS degree from Brandeis University and completed a rigorous full-stack coding boot camp called App Academy! Feel free to see some of my projects and reach out, I would love to talk to you! </p>
+  <p>Hello! I am David Pollack and I am a full-stack software engineer who graduated with a CS degree from Brandeis University and completed a rigorous full-stack coding boot camp called App Academy! Feel free to see some of my projects and reach out, I would love to talk to you! Check out my portfolio site <a target="_blank" href="https://davidpollack43.github.io/">here!</a></p>
 <h2>Contact me!</h2>
   <div id="contact-me-badges">
     <a href="https://www.linkedin.com/in/david-pollack-22b324292/">
